@@ -1,0 +1,13 @@
+name = "3d mob makeover"
+filename = "3d mob makeover.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yijdgqtz/versions/Kvjglum0/3d%20mob%20makeover.zip"
+hash-format = "sha512"
+hash = "6b0ef5a3d9bc8c4b3756d40214f553aba3158618a6a882082947a3713b9ae3148e977b6938805567705b569d1e3fc79a700dbee8a463e1ee137d82bd5b4646ad"
+
+[update]
+[update.modrinth]
+mod-id = "yijdgqtz"
+version = "Kvjglum0"

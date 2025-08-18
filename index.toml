@@ -239,3 +239,43 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "33a6300bdf82bd4297aeba3c660ebb0f0993121b97f0824a939468e4dcb81d15"
 metafile = true
+
+[[files]]
+file = "resourcepacks/3d-default.pw.toml"
+hash = "407f29e597fcd83aed007e0fa2be9743737514c4bccd1eff58b7515df0d5afda"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-mob-makeover.pw.toml"
+hash = "52cce317a07185c7a188c6c15ff4c8a6a53a5315bcbd8b16079061ab62f23d95"
+metafile = true
+
+[[files]]
+file = "resourcepacks/animated-furnaces.pw.toml"
+hash = "13f21acf21abd9809a3cbea2820ef6da96a5c4a1be3c931d9d4305168fec49be"
+metafile = true
+
+[[files]]
+file = "resourcepacks/compatibility-patch-for-faithful32x-freshanimations.pw.toml"
+hash = "6c66482aaff7c653f1b47d5912d7f7e0ff0de74de3145e1ab27e5ddf9ce78414"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "7eb818b2376ce88bd7c76ee086447a33d754d02cc773de877652a6daed66c3a5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farm-3d.pw.toml"
+hash = "ff1fe8a5fc848860ed02bf937d33dd8f7e2a51f6813709da37f8fe6f311c3751"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "e32e66189673274431cd5c1a51250a4815de60d5094b3dd6dbf8cb5705841cc9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "4b3b0e50c1eebdecc77103f161f74a7b000bc3b9a1fa46a07155198890545b4a"
+metafile = true

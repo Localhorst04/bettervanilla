@@ -1,0 +1,13 @@
+name = "Animated Furnaces"
+filename = "Animated_Furnaces_(1.21).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OYT5d7kf/versions/OWuc1ErO/Animated_Furnaces_%281.21%29.zip"
+hash-format = "sha512"
+hash = "83fe75d847bac3a88bbe02e27fa11175732cded8e7b8d3a0e28d8c5a5a995593054c57b3123a3df60df2284a12102082bb67a194fa9b55c76fca9446cc06ca65"
+
+[update]
+[update.modrinth]
+mod-id = "OYT5d7kf"
+version = "OWuc1ErO"

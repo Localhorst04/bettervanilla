@@ -1,0 +1,13 @@
+name = "3D Default"
+filename = "3D Default 1.21.2+ v1.12.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5aPp18Lx/versions/TclOfUqX/3D%20Default%201.21.2%2B%20v1.12.1.zip"
+hash-format = "sha512"
+hash = "e7be20276298834f6520b46595a8e686fa7d64cf8efa69528977d5cf46e89d70713058caab6125d8517c1d7f2fef5695106e6d1f0d113feb129b7f68b6aa44f0"
+
+[update]
+[update.modrinth]
+mod-id = "5aPp18Lx"
+version = "TclOfUqX"

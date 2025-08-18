@@ -1,0 +1,13 @@
+name = "Compatibility Patch for Faithful32x & FreshAnimations"
+filename = "Faithful32x-FreshAnimations-v1.10.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EeMQI7nJ/versions/EH3Xmyw4/Faithful32x-FreshAnimations-v1.10.zip"
+hash-format = "sha512"
+hash = "d4dcce20e8fcef416d4171857caeef580f25e8e6bfae6a3b8896997f5d58f34b9981badbf99f2080d0fcfe0c553382aa4c720da796cd6dac16dd5cc379109698"
+
+[update]
+[update.modrinth]
+mod-id = "EeMQI7nJ"
+version = "EH3Xmyw4"
