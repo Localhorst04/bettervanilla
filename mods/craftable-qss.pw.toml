@@ -1,0 +1,13 @@
+name = "Craftable"
+filename = "craftable-qss-2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5PJh9pCi/versions/iK4LgvpS/craftable-qss-2.4.jar"
+hash-format = "sha512"
+hash = "6379ef195da89b4db96b4ade4056acccaa9631d0a2e0be93de1d6969769d7c936dc8efa857d2f0af4cf85e3afb512aa05953ea73049658aeb208791c349e5e7a"
+
+[update]
+[update.modrinth]
+mod-id = "5PJh9pCi"
+version = "iK4LgvpS"

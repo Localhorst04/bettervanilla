@@ -1,0 +1,13 @@
+name = "Mob Heads Collection"
+filename = "mob-heads-collection-v0.1.10_mc1.21.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PVi6OHHC/versions/6u6BM5ib/mob-heads-collection-v0.1.10_mc1.21.6.jar"
+hash-format = "sha512"
+hash = "9106147c6be81acec7716805e9cf56dfbe44629a1622c9220d74ff188ebb654a3acbbe68298287950b3bce218f33aa8d02bf0bede1342904c77c646d23fb5ac0"
+
+[update]
+[update.modrinth]
+mod-id = "PVi6OHHC"
+version = "6u6BM5ib"

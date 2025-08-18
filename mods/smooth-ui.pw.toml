@@ -1,0 +1,13 @@
+name = "Smooth UI"
+filename = "smoothui-1.0.1-BETA.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OLPUKqHj/versions/kwFjDXSX/smoothui-1.0.1-BETA.jar"
+hash-format = "sha512"
+hash = "7f6fa9bec1bb96fedf4e463ebf39162130d42d5114d4a91d2eb4eae08fbb35115b3124385dc0444ccbe7c5649a5fd961622bb5292a8cd8f09ff7b5f67cba2241"
+
+[update]
+[update.modrinth]
+mod-id = "OLPUKqHj"
+version = "kwFjDXSX"

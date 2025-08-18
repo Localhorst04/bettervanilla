@@ -1,0 +1,13 @@
+name = "Craftable Nametag"
+filename = "craftable-nametag-81.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UgFSv6UG/versions/jsBIwU2h/craftable-nametag-81.jar"
+hash-format = "sha512"
+hash = "bb8c9f37027ac93b76f8bb99ac1f95bf4cde9736dae081f7e971cc63b649985be7078f5ea2d6ebd9f22c11f08948d0924e4c8acb0d94ffcecd47dcccbeeacf70"
+
+[update]
+[update.modrinth]
+mod-id = "UgFSv6UG"
+version = "jsBIwU2h"
